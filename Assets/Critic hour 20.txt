@@ -1,0 +1,32 @@
+Sepehr arya yari 2023
+
+I found the game’s difficulty to be easy.
+There wasn’t any overwhelming challenge, or any for that matter (not a lot of variety of entities).
+The Game is just a simple walking track which  doesn’t take advantage of a more diverse movement option.
+The only real enemy is the ticking timer. So other than the extreme weight of time itself there is no other enemy.
+
+
+
+
+
+3 changes I would do to make it harder.
+I would add entities that would be also be scrolling down like the other entities however they would have projectile prefabs that they would fire that could slow the player down or reduce their play time
+I would add turns so that the player has to choose which directions are safer and which are more dangerous.
+I would add a more limited view of what can be seen on the track, that way there is less time to react to obstacles.
+
+
+3 things that would give this game a WOW factor
+A fun WOW factor could be A win and loss condition
+The win condition could be a finish line that leads to where the character was running to, maybe she was going to the store, maybe she was running from the cyber police or maybe she was running to a cyber birthday party. It would be fun to see where the end goal was.
+The loss condition could also be attuned with the win condition depending what happens the player wins, if the player loses then perhaps she is sent to the cyber jail or she fails to make it to the birthday party.
+
+3 things I found fun about the game
+I thought it was fun to see the stationary movement of the character and then the rest of the world moving around them. 
+I really like the visual aesthetic of the game, the laser bars on the side really give an interesting visual.
+I found it really fun to dart around. If the game was redesigned to be a star wars spaceship flying game i think there could be a lot done to highlight the interesting movement.
+
+3 things i found tedious about the game
+The obstacle were moving way too fast to confidently collide with
+The space that we can move in felt way too limited and made me feel really constrained and claustrophobic.
+I found it tedious how there wasn’t a lot of other game objects to interact with
+
